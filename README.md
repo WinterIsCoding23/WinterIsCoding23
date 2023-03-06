@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 
 ## Let's connect
 <a href="https://www.linkedin.com/in/markus-winter-78419079/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Markus Winter" height="40" width="40"></a>
+
+<!--- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) --->
