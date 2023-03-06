@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi and welcome to my page
+# Hi and welcome to my page!
 💬 I'm Markus, an aspiring Full Stack Web Developer based in Berlin.
-- Very much interested in creative solution-finding.
-- Apart from developing Javascript-based projects I like photography, languages and discovering new places in Berlin and all around the world. 
+- Very much interested in finding creative solutions.
+- 8+ years experience in project management (renewable energies, water & wastewater). 
+- When not coding I enjoy photography, languages and discovering new places in Berlin and all around the world. 
 
 ## Languages and Tools
 <p align="left"> <img src="https://github.com/WinterIsCoding23/WinterIsCoding23/blob/main/javascript-logo.png" alt="javascript" width="50" height="50"/>
