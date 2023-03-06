@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 ## Let's connect
 <a href="https://www.linkedin.com/in/markus-winter-78419079/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Markus Winter" height="40" width="40"></a>
 
-<!--- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) --->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=markusw.visitor-badge&left_color=green&right_color=red)
-
+## My Github
 [![WinterIsCoding23's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterIsCoding23)](https://github.com/WinterIsCoding23/github-readme-stats)
 
 ![WinterIsCoding23's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterIsCoding23&show_icons=true&theme=gruvbox)
+
+<!--- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) --->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=markusw.visitor-badge&left_color=green&right_color=red)
