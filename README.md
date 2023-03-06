@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=markusw.visitor-badge&left_color=green&right_color=red)
 
 [![WinterIsCoding23's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterIsCoding23)](https://github.com/WinterIsCoding23/github-readme-stats)
+
+![WinterIsCoding23's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterIsCoding23&show_icons=true&theme=gruvbox)
