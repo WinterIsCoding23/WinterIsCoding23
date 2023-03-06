@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 
 <!--- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) --->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=markusw.visitor-badge&left_color=green&right_color=red)
+
+[![WinterIsCoding23's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterIsCoding23)](https://github.com/WinterIsCoding23/github-readme-stats)
