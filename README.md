@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 - Apart from developing Javascript-based projects I like photography, languages and discovering new places in Berlin and all around the world. 
 
 ## Languages and Tools
-GIMP 
-
-
-<img align="center" src="https://github.com/WinterIsCoding23/WinterIsCoding23/blob/main/javascript-logo.png" alt="javascript" width="50" height="50"/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="50" height="50"/>                                                                                                               
+<p align="left"> <img src="https://github.com/WinterIsCoding23/WinterIsCoding23/blob/main/javascript-logo.png" alt="javascript" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="50" height="50"/>   
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="gimp" width="50" height="50" /></p>
 
 
 ## Let's connect
-<a href="https://www.linkedin.com/in/markus-winter-78419079/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Markus Winter" height="50" width="50"></a>
+<a href="https://www.linkedin.com/in/markus-winter-78419079/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Markus Winter" height="40" width="40"></a>
