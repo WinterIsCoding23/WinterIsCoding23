@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi and welcome on my page
+# Hi and welcome to my page
+I'm Markus, an aspiring Full Stack Web Developer with a keen interest in  
+- Apart from developing Javascript-based projects I like photography, languages and discovering new places
+
+## Languages and Tools
+Javascript HTML CSS GIMP 
+
+## Let's connect
+[LinkedIn](https://www.linkedin.com/in/markus-winter-78419079/)
