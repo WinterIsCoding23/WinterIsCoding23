@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # Hi and welcome to my page!
-💬 I'm Markus, an aspiring Full Stack Web Developer based in Berlin.
-- Very much interested in finding creative solutions.
-- 8+ years experience in project management (renewable energies, water & wastewater). 
+💬 I'm Markus, an aspiring **Full Stack Web Developer** based in Berlin.
+- Very much interested in finding **creative solutions**.
+- 8+ years experience in **project management** (renewable energies, water & wastewater). 
 - When not coding I enjoy photography, languages and discovering new places in Berlin and all around the world. 
 
 ## Languages and Tools
@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 
 ## Let's connect
-<a href="https://www.linkedin.com/in/markus-winter-78419079/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Markus Winter" height="40" width="40"></a>
+<a href="https://www.linkedin.com/in/markus-winter-78419079/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Markus Winter" height="40" width="40"></a>
 
-## My Github
+## My Github stats
 <!-- [![WinterIsCoding23's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterIsCoding23)](https://github.com/WinterIsCoding23/github-readme-stats)
 --->
 
 ![WinterIsCoding23's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterIsCoding23&show_icons=true&theme=gruvbox)
 
 <!--- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) --->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=markusw.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=WinterIsCoding23.visitor-badge&left_color=green&right_color=red)
