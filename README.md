@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   - When not coding I enjoy photography, languages and discovering new places in Berlin and all around the world.
 
 ## Currently I'm working on...
-<img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" alt="programming guy" width="240" height="144" class="giphy-embed">
+3-month-bootcamp at SPICED Academy in Berlin (Germany).
+
+<!-- <img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" alt="programming guy" width="240" height="144" class="giphy-embed"> -->
 
 ## Languages and Tools
 <p align="left"> <img src="https://github.com/WinterIsCoding23/WinterIsCoding23/blob/main/javascript-logo.png" alt="javascript" width="50" height="50"/>
