@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - When not coding I enjoy photography, languages and discovering new places in Berlin and all around the world.
 
 ## Currently I'm working on...
-...learning Vue.js and venturing further into Tailwind CSS.
+...learning Vue.js, Typescript and venturing further into Tailwind CSS.
 
 <!-- <img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" alt="programming guy" width="240" height="144" class="giphy-embed"> -->
 
