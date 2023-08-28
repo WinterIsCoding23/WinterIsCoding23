@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   <a href="https://react.dev/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
   </a>
+  <a href="https://nextjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
   <a href="https://vuejs.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" width="40" height="40" />
   </a>
