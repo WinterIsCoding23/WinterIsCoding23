@@ -51,8 +51,9 @@ Here are some ideas to get you started:
   <a href="https://www.gimp.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="gimp" width="50" height="50" /> 
   </a>
-  ![Gimp](https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg) 
+  
 </div>
+![Gimp](https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg) 
 
 ## Let's connect
 <a href="https://www.linkedin.com/in/markus-winter-78419079/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Markus Winter" height="40" width="40"></a>
