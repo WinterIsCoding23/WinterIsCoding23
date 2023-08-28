@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ...learning Vue.js, Typescript and venturing further into Tailwind CSS.
 
 ## Languages and Tools
-<div align="left"> 
+<div style="text-align: left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript">
     <img src="https://github.com/WinterIsCoding23/WinterIsCoding23/blob/main/javascript-logo.png" alt="javascript" width="50" height="50"/>
   </a>
