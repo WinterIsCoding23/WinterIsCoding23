@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <a href="https://www.gimp.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="gimp" width="50" height="50" /> 
   </a>
-  [Gimp]: https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg  
+  ![Gimp](https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg) 
 </div>
 
 ## Let's connect
