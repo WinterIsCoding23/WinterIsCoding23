@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 ## Currently I'm working on...
 ...learning Vue.js, Typescript and venturing further into Tailwind CSS.
 
-<!-- <img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" alt="programming guy" width="240" height="144" class="giphy-embed"> -->
-
 ## Languages and Tools
 <div align="left"> <img src="https://github.com/WinterIsCoding23/WinterIsCoding23/blob/main/javascript-logo.png" alt="javascript" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="50" height="50"/>   
@@ -36,11 +34,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/markus-winter-78419079/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Markus Winter" height="40" width="40"></a>
 
 ## My Github stats
-<!-- [![WinterIsCoding23's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterIsCoding23)](https://github.com/WinterIsCoding23/github-readme-stats)
---->
-
 ![WinterIsCoding23's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterIsCoding23&show_icons=true&theme=gruvbox)
 
-<!--- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) --->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=WinterIsCoding23.visitor-badge&left_color=green&right_color=red)
--->
