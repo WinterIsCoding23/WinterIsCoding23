@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # Hi and welcome to my page!
-💬 I'm Markus, a **Full Stack Developer** based in Berlin.
-  - Recent **graduate of the Full Stack Web Development** bootcamp at SPICED Academy. 
+💬 I'm Markus, a **Frontend Developer** based in Berlin.
+  - Coding in HR.
   - Very much interested in finding **creative solutions**.
   - 8+ years experience in **project management** (renewable energies, water & wastewater). 
   - When not coding I enjoy photography, languages and discovering new places in Berlin and all around the world.
