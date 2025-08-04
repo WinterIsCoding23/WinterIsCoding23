@@ -42,6 +42,9 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="50" height="50"/>
   </a>
+    <a href="https://emotion.sh/docs/introduction">
+    <img src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png" alt="tailwind" width="40" height="40"/> 
+  </a>
   <a href="https://tailwindcss.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/> 
   </a>
