@@ -21,9 +21,6 @@ Here are some ideas to get you started:
   - 8+ years experience in **project management** (renewable energies, water & wastewater). 
   - When not coding I enjoy photography, languages and discovering new places in Berlin and all around the world.
 
-## Currently I'm working on...
-...learning Vue.js, Typescript and venturing further into Tailwind CSS.
-
 ## Languages and Tools
 <!-- [![Javascript](./resources/javascript.svg "Javascript")](https://developer.mozilla.org/en-US/docs/Web/Javascript) -->
 <div style="text-align: left">   
